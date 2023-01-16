@@ -1,0 +1,11 @@
+create rusu Savings
+create rusu error
+create rusu
+verify ceva
+verify 63c4daf308441931d59202bb
+verify
+apply lownumberofinputs
+apply error 50 2 500 23
+apply mail 50 3 500 23
+transfer nume 
+transfer error1 error2 500
